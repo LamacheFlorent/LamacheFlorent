@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Florent
 <!-- - 👀 I’m interested in ... -->
-- 💪 I'm currently trainingto become a web developer!
+- 💪 I'm currently training to become a web developer!
 - 🌱 I’m currently learning HTML, CSS, PHP, JavaScript, MySQL, Bootstrap, OOP, MVC.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
