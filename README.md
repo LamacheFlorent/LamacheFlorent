@@ -1,14 +1,12 @@
 ![Alt tag](https://github.com/LamacheFlorent/LamacheFlorent/assets/127777988/b2cc6e1d-2013-4dec-9593-908a6b4e0a22)
 
 # 👋 Hi, I’m Florent
-<!-- - 👀 I’m interested in ... -->
-- 💪 I'm currently training to become a web developer!
-- 🌱 I’m currently learning HTML, CSS, PHP, JavaScript, MySQL, Bootstrap, OOP, MVC.
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- - 📫 How to reach me ... -->
 
-<!---
-LamacheFlorent/LamacheFlorent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+💪 After a career change in web development. 
+🌱 I've also acquired knowledge of Javascript, Symfony, Bootstrap, MySQL.
+💞️ I'm looking for a job in web development, particularly in back end, but I can also work in full stack. 
+🚀 I like learning and adapting to new situations.
+🚗 I can travel anywhere in France, and it's entirely possible for me to relocate.
+📫 To find me:  
+- [Linkedin](https://www.linkedin.com/in/florentlamache/)
+- [My email address](florentlamache@gmail.com)
