@@ -2,11 +2,11 @@
 
 # 👋 Hi, I’m Florent
 
-💪 After a career change in web development. 
-🌱 I've also acquired knowledge of Javascript, Symfony, Bootstrap, MySQL.
-💞️ I'm looking for a job in web development, particularly in back end, but I can also work in full stack. 
-🚀 I like learning and adapting to new situations.
-🚗 I can travel anywhere in France, and it's entirely possible for me to relocate.
-📫 To find me:  
+- 💪 After a career change in web development. 
+- 🌱 I've also acquired knowledge of Javascript, Symfony, Bootstrap, MySQL.
+- 💞️ I'm looking for a job in web development, particularly in back end, but I can also work in full stack. 
+- 🚀 I like learning and adapting to new situations.
+- 🚗 I can travel anywhere in France, and it's entirely possible for me to relocate.
+- 📫 To find me:  
 - [Linkedin](https://www.linkedin.com/in/florentlamache/)
 - [My email address](florentlamache@gmail.com)
