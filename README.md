@@ -10,3 +10,7 @@
 - 📫 To find me:  
 - [Linkedin](https://www.linkedin.com/in/florentlamache/)
 - [My email address](florentlamache@gmail.com)
+
+
+My first project:
+![]("C:\Users\flore\Downloads\video_1min40.mp4")
