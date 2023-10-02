@@ -13,4 +13,4 @@
 
 
 My first project:
-- [O'Plats project]([//url-video](https://www.youtube.com/watch?v=4sV_fYssa-E)https://www.youtube.com/watch?v=4sV_fYssa-E)
+- [O'Plats project](https://www.youtube.com/watch?v=4sV_fYssa-E))
