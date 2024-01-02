@@ -4,7 +4,8 @@
 
 - 💪 After a career change in web development. 
 - 🌱 I've also acquired knowledge of Javascript, Symfony, Bootstrap, MySQL.
-- 💞️ I'm looking for a job in web development, particularly in back end, but I can also work in full stack. 
+- 💞️ I'm looking for a job in web development, particularly in back end, but I can also work in full stack.
+- 🧑‍💻 I'm currently doing an internship with a freelancer working on prestashop. I've been able to see how to create modules and do debugging on this CMS.
 - 🚀 I like learning and adapting to new situations.
 - 🚗 I can travel anywhere in France, and it's entirely possible for me to relocate.
 - 📫 To find me:  
