@@ -12,6 +12,8 @@
 - [Linkedin](https://www.linkedin.com/in/florentlamache/)
 - [My email address](florentlamache@gmail.com)
 
+<a href="https://app.daily.dev/florentlamache"><img src="https://api.daily.dev/devcards/2a15798529c84436939b75e93902fa34.png?r=ft4" width="400" alt="Florent Lamache's Dev Card"/></a>
+
 
 My first project:
 - [O'Plats project](https://www.youtube.com/watch?v=4sV_fYssa-E)
