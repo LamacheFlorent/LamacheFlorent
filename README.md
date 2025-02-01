@@ -1,5 +1,3 @@
-![Alt tag](https://github.com/LamacheFlorent/LamacheFlorent/assets/127777988/b2cc6e1d-2013-4dec-9593-908a6b4e0a22)
-
 # 👋 Hi, I’m Florent
 
 - 💪 After a career change in web development. 
