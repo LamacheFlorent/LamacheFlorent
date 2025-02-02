@@ -5,12 +5,9 @@
 - 💞️ I'm looking for a job in web development, particularly in back end, but I can also work in full stack.
 - 🧑‍💻 I'm currently doing an internship with a freelancer working on prestashop. I've been able to see how to create modules and do debugging on this CMS.
 - 🚀 I like learning and adapting to new situations.
-- 🚗 I can travel anywhere in France, and it's entirely possible for me to relocate.
 - 📫 To find me:  
 - [Linkedin](https://www.linkedin.com/in/florentlamache/)
 - [My email address](florentlamache@gmail.com)
-
-<a href="https://app.daily.dev/florentlamache"><img src="https://api.daily.dev/devcards/2a15798529c84436939b75e93902fa34.png?r=ft4" width="400" alt="Florent Lamache's Dev Card"/></a>
 
 
 My first project:
